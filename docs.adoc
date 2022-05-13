@@ -1,5 +1,6 @@
 = Documentation bidon 
 :icons: font
+:example-caption!: 
 
 This documentation describes how to use the Pavel robotic toothbrush. 
 
